@@ -1,1 +1,3 @@
 Hi Bri!
+
+I am practicing using Git
