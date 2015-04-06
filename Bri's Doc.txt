@@ -1,4 +1,6 @@
 Hi Bri!
 
 I am practicing using Git
-I’m also practicing using git
+I’m also practicing using git\
+
+Let us see if this is working and you can see it too...
