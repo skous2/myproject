@@ -1,3 +1,4 @@
 Hi Bri!
 
 I am practicing using Git
+I’m also practicing using git
